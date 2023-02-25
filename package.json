@@ -1,5 +1,23 @@
 {
+  "name": "2-infinity-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
   "dependencies": {
     "dotenv": "^16.0.3"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OybekKayumov/infinite-scroll.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",    
+  "bugs": {
+    "url": "https://github.com/OybekKayumov/infinite-scroll/issues"
+  },
+  "homepage": "https://github.com/OybekKayumov/infinite-scroll#readme"
 }
